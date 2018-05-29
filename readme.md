@@ -1,12 +1,21 @@
 My RoadMap
 =======================
 
+## keywords of my skills
+### fronend
+jquery webpack vue.js bundle CSS-preprocessor websocket typescript
+
+### backend
+TCP/UDP http streaming caching job queue
+
+### devOps
+docker jenkins CI/CD aws shell systemd crontab ssh
+
 ## Frontend
-<placeholoder for image>
+![placeholder](https://raw.githubusercontent.com/raphaelsoul/myRoadMap/master/frontend.png)
 
 ## Backend
-<placeholoder for image>
-
+![placeholder](https://raw.githubusercontent.com/raphaelsoul/myRoadMap/master/devops.png)
 
 ## DevOps
-<placeholoder for image>
+![placeholder](https://raw.githubusercontent.com/raphaelsoul/myRoadMap/master/backend.png)
