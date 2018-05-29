@@ -15,7 +15,7 @@ docker jenkins CI/CD aws shell systemd crontab ssh
 ![placeholder](https://raw.githubusercontent.com/raphaelsoul/myRoadMap/master/frontend.png)
 
 ## Backend
-![placeholder](https://raw.githubusercontent.com/raphaelsoul/myRoadMap/master/devops.png)
+![placeholder](https://raw.githubusercontent.com/raphaelsoul/myRoadMap/master/backend.png)
 
 ## DevOps
-![placeholder](https://raw.githubusercontent.com/raphaelsoul/myRoadMap/master/backend.png)
+![placeholder](https://raw.githubusercontent.com/raphaelsoul/myRoadMap/master/devops.png)
